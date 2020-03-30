@@ -54,5 +54,5 @@ epic_tragedy = {
       }
     ]
   }
-
+}
 end
